@@ -1,0 +1,1 @@
+Slack -> Manage Apps -> Custom Integrations -> Incoming WebHooks -> Select channel -> Add Incoming WebHooks Integration -> Get WebHook URL and change it to url
